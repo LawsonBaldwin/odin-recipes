@@ -1,7 +1,7 @@
 # odin-recipes
 
 ## Introduction
-The purpose of this project is to create a basic recipe website to demonstrate and practice my web development skills. The website currently only uses HTML as that is all I have learned so far. By the end of this project, other languages such as CSS and Javascript will be implemented.
+The purpose of this project is to create a basic recipe website to demonstrate and practice my web development skills. The website currently only uses HTML/CSS as that is all I have learned so far. By the end of this project Javascript will be implemented.
 
 ## Progress
 All of the progress I have made over time will be recorded here. This will act as a timeline and summarize the major changes and new implementations made in order to improve the look and functionality of this website.
